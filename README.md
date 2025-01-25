@@ -3,8 +3,6 @@ PSION Organiser I and II - Sliding Cover
 
 A 3D Model file of a PSION Organiser II (all family) custom sliding cover.  
 
-Release 2025
-
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <img src="https://github.com/nofitnessforpurpose/SlidingCover/blob/main/images/2024-12-23%20-%20Sliding%20Cover%20-%2007.png?raw=true" width="400px" alt="PSION Organiser II Top Slot Case. Image copyright (c) 10 August 2024 nofitnessforpurpose All Rights Reserved">
@@ -19,7 +17,12 @@ Release 2025
 [![Static Badge](https://img.shields.io/badge/format-STEP%20Solid%20Model-blue?style=flat-square)](https://en.wikipedia.org/wiki/ISO_10303)
 
 <br>  
-All the files are required for a complete case assembly. The default repository format is STEP (<a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/ISO_10303"> ISO 10303</a> ) due to its high fidelity.  { STL files are surface geometry as opposed to solid model representations, often containing export processing artifacts }. <br>  
+A version with grip lines and a front panel label recess, also a smooth variant are provided.  
+
+<br>
+<br>
+
+The default repository format is STEP (<a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/ISO_10303"> ISO 10303</a> ) due to its high fidelity.  { STL files are surface geometry as opposed to solid model representations, often containing export processing artifacts }. <br>  
 <br>  
 <a target="_blank" rel="noopener noreferrer" href="https://www.freecad.org/" > FreeCAD </a> may prove suitable for viewing, handling and, if desired modifying STEP files.
 <br>
@@ -27,6 +30,8 @@ All the files are required for a complete case assembly. The default repository 
 
 ## Considerations
 The model makes no accomodation for manufacturing tolerances, process or material - see Notes below. 
+<BR>
+Different materials will have varying performance.
 
 <BR>
 
