@@ -28,6 +28,14 @@ The default repository format is STEP (<a target="_blank" rel="noopener noreferr
 <br>
 <br>
 
+### On-Line Preview   
+Models might be viewed on line using the following links. Noting display of any mesh lines is a feature of the renderer and are not contained in the source STEP model. It is strongly recommended to use the source STEP file where ever possible, as any export process will introduce artifacts.  
+ - Smooth - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/SlidingCover/blob/main/CAD/Sliding%20Cover%2008-Smooth.stp">here</a>.  
+ - Ribs & Label - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/SlidingCover/blob/main/CAD/Sliding%20Cover%2008.stp">here</a>.  
+ - Ribs - <a  target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/SlidingCover/blob/main/CAD/Sliding%20Cover%2007.stp">here</a>.  
+
+<BR>
+<BR>
 ## Considerations
 The model makes no accomodation for manufacturing tolerances, process or material - see Notes below. 
 <BR>
