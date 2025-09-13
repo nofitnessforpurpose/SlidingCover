@@ -1,7 +1,7 @@
 # Sliding Cover
 PSION Organiser I and II - Sliding Cover
 
-A 3D Model file of a PSION Organiser II (all family) custom sliding cover.  
+3D Model files of a PSION Organiser I & II (all family) custom sliding cover.  
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
